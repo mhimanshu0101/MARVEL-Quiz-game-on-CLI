@@ -10,3 +10,5 @@ This game is hosted on [repl.it](https://repl.it/~) with NodeJs and user can pla
 Supported on web as well as mobile platform.
 
 Let's play [Marvel Quiz](https://repl.it/@mhimanshu0101/levelZeroMarvelgame?embed=1&output=1#index.js)
+
+![Interface](https://github.com/mhimanshu0101/MARVEL-Quiz-game-on-CLI/blob/main/marvel_cli.PNG)
